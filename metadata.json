@@ -1,0 +1,6 @@
+{
+  "name": "Make Me Beauty Place",
+  "description": "Premier beauty parlour in Surulere, Lagos. Makeup, hair styling, braids, wigs, nails, lashes & luxury bridal glam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
